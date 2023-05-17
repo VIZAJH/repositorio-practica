@@ -1,2 +1,2 @@
 # repositorio-practica
-practicando git-hub
+mi primer README
